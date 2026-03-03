@@ -8,7 +8,7 @@ exports.config = {
     type: 'string',
     label: 'Additional video extensions',
     helperText: 'Comma-separated list, e.g. webm,rmvb,mts',
-    defaultValue: 'mp4, avi, mkv, webm, mov, wmv, flv, ts, mpeg, mpg, m4v, 3gp, 3g2, rm, rmvb, mts, m2ts, asf, vob',
+    defaultValue: 'mp4, avi, mkv, webm, mov, wmv, flv, ts, mpeg, mpg, m4v, 3gp, 3g2, rm, rmvb, rm, dat, mts, m2ts, asf, vob',
   },
   extraAudioExt: {
     type: 'string',
